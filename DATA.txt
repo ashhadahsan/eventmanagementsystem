@@ -1,0 +1,13 @@
+insert INTO event_planning.event_types(Description) values ('Dinner');
+insert INTO event_planning.event_types(Description) values ('Concert');
+insert INTO event_planning.event_types(Description) values ('Tech Show');
+insert INTO event_planning.event_types(Description) values ('Trade Show');
+insert INTO event_planning.event_types(Description) values ('Product Launch Event');
+insert INTO event_planning.event_types(Description) values ('Convocation');
+
+
+insert into services(Type) values('Catering');
+insert into services(Type) values('Advertisement');
+insert into services(Type) values('Social Media Campaign');
+insert into services(Type) values('Security');
+insert into database_admin(username,password) values('ashhad123','33236');

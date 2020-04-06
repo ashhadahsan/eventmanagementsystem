@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/JFREECHART/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/barcodes-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/barcodes-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/barcodes-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/font-asian-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/forms-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/forms-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/forms-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/hyph-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/io-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/io-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/io-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/kernel-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/kernel-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/kernel-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/layout-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/layout-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/layout-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdfa-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdfa-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdfa-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdftest-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdftest-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/pdftest-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/sign-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/sign-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/sign-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/svg-7.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/svg-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/iText7-Core-7.1.3/svg-7.1.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/jcl-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/jcl-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/jul-to-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/jul-to-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/log4j-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/log4j-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/osgi-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/osgi-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/slf4j-ext-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/slf4j-ext-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/slf4j-simple-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Downloads/Compressed/slf4j-1.7.26/slf4j-simple-1.7.26-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/jaf-1_1_1/jaf-1.1.1/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/javamail1_4_7/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/commons-email-1.5/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/commons-email-1.5/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/commons-email-1.5/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/commons-email-1.5/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ashhad Rehman/Desktop/mysql-connector-java-8.0.15/commons-email-1.5/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
